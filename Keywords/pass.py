@@ -8,4 +8,5 @@ for i in range(num):
         print("fizz")
     elif num%3 == 0:
         print("buzz")
-    print(num)
+    else:
+        print(num)
